@@ -10,7 +10,7 @@ const person = {
 };
 
 const person2 = {...person};
-person2.nombre = "Gutavo";
+person2.nombre = "Gustavo";
 
 console.table(person);
 console.table(person2);
