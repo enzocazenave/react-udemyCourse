@@ -1,4 +1,4 @@
-const newMessage = ["Enzo", "Gustavo", "Boris"];
+const newMessage = ["Enzo ", "Gustavo ", "Boris"];
 
 export const FirstApp = () => {
     return (
